@@ -75,6 +75,14 @@ Introduce t-statistic.
 
 Image: whcih set of data shows greater evidence that New > Standard?
 
+AIM: try and find the simplest model that describes the data.
+
+
+## One mean or more than one mean (e.g. three means)
+
+One way Anova. 
+
+F statistic - between gorup mean variation / within-group variation
 ## Repositories on GitHub
 
 Our lessons are stored in Git repositories (or "repos") on GitHub.
