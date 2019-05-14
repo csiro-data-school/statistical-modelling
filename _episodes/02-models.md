@@ -62,6 +62,19 @@ A and D are called parameters of the model.
 
 Experimental question  ? Delta not equal to 0.
 
+Overall goal: we have some data, what is signal what is noise?
+
+The t-test is an example of a siple model, where:
+
+OUtcome measure: continuous variable
+Experimental factor: On factor: 2 conditions
+Blocking factor = Data Structure (none)
+
+Introduce t-statistic.
+
+
+Image: whcih set of data shows greater evidence that New > Standard?
+
 ## Repositories on GitHub
 
 Our lessons are stored in Git repositories (or "repos") on GitHub.
