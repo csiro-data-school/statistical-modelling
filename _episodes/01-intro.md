@@ -2,6 +2,8 @@
 title: "Statistical thinking"
 questions:
 - "Why do we need statistics?"
+keypoints:
+- "Statistics is about understanding variation"
 ---
 
 > ## Discussion
