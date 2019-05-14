@@ -9,5 +9,7 @@ title: Glossary
 
 **estimate**
 
+**inference**
+
 
 {% include carpentries.html %}
