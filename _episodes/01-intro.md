@@ -52,3 +52,14 @@ What are the words you need to understand?
 
 * mean
 * variation
+* Standard Error: measure of uncertainty
+
+2. p-values from simple comparisions cannot tell us when difference are 'different'.
+
+Experimental set-up:
+Are temperature mechanisms modified in a genetically modified tomato plant?
+* Genotypes: WT/ Mutant
+* Water conditions: Normal / Drought
+* Leaf temperature measured. 
+
+Two lots of t-tests to test effect of WT/ mutant by Normal / Drought.
