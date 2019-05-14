@@ -1,24 +1,55 @@
 ---
-title: "GitHub, Markdown, and Jekyll"
+title: "statistical models"
 teaching: 10
 exercises: 0
 questions:
-- "How are pages published?"
 objectives:
-- "Explain how GitHub Pages produce web sites from Git repositories."
-- "Explain Jekyll's formatting rules."
 keypoints:
-- "Lessons are stored in Git repositories on GitHub."
-- "Lessons are written in Markdown."
-- "Jekyll translates the files in the gh-pages branch into HTML for viewing."
-- "The site's configuration is stored in _config.yml."
-- "Each page's configuration is stored at the top of that page."
-- "Groups of files are stored in collection directories whose names begin with an underscore."
 ---
 
-This episode describes the tools we use to build and manage lessons.
-These simplify many tasks, but make other things more complicated.
+What is a model? 
+* informative summar of data
+* framework for inferring associations
+* a framework for predicting future observations
+* may take many different functional forms
+* a conceptualisation of the experiment
 
+Predictive versus explanatory models. 
+
+Predictive: you give data, it produces a prediction. 
+Explanatory: identify factors that influence outcome.
+
+Ideally both.
+
+Two components of model: some kind of function or form, plus variation around the pattern. 
+
+**Always begin with a research question**
+
+Have to have some experimental factors of interest. 
+
+To compare the mean response of an organism / system to a set of different experimental conditions
+* obtain estimate of Treatement effect (mean difference)
+* Is this Treatment effect different in subgroups of interest?
+* What are hte most important factors influencing the mean response
+* Subsidiary question: how can we design our experiemnt in future to more efficiently estimate the Treatment effects?
+
+Through intentional design, can also measure 'unwanted' effects
+
+1. Compare mean wheat yield between standard commerical and new variety.
+Outcome measure: Tonnes/hectare
+Experimental factor: Variety (new/standard)
+Data 6 plots/variety
+
+From our data we can calculate:
+
+Observed overall mean wheat yield
+Observed mean yield in STANDARD
+Observed mean yield in NEW VARIETY
+
+**insert algebra for (XhatA - Xhat)2 + (XhatB-Xhat)2**
+
+
+Variation around each mean. 
 ## Repositories on GitHub
 
 Our lessons are stored in Git repositories (or "repos") on GitHub.
