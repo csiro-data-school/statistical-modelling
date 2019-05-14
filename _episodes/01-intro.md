@@ -64,3 +64,22 @@ Are temperature mechanisms modified in a genetically modified tomato plant?
 * Leaf temperature measured. 
 
 Two lots of t-tests to test effect of WT/ mutant by Normal / Drought. People confuse non-significant P-value with saying that they are the same. It's just that there is not enough evidence to say that they are different. Note here (discuss with Terry): one way this can occur is difference in sample sizes. 
+
+3. Interpreting experimental results needs more than t-tests
+Research question: is crop yield of two turnip varieties differentially affected by planting density? 
+
+Experimental set-up
+* 2 turnip varieties 32 observations / variety
+* 4 growing densities: 1, 2, 4, 8 kg/ha
+* 2 planting dates
+* outcome meausre: yield (kg/ha)
+
+Could do 4 t-tests. Or density 2 versus density 1. Etc. But does this address the question we're interested in? Specifically, the underlying patterns?
+
+4. Knowing how to combine information across subgroups can improve inference
+Comparing yield in five barley varieties (1930s)
+Experimental factors: 5 varieties of barley, 6 locations, 2 time points. Outcome measure: yield
+Done an anova...
+
+Note: year is also a source of variation 'controlling fo year' = comparing yields WITHIN year and combining differences
+location is an enormous source of variation. 
