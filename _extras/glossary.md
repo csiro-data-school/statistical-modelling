@@ -11,5 +11,8 @@ title: Glossary
 
 **inference**
 
+**linear model**
+
+
 
 {% include carpentries.html %}
