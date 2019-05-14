@@ -50,6 +50,18 @@ Observed mean yield in NEW VARIETY
 
 
 Variation around each mean. 
+
+Take data and find numbers that make the most sense.
+
+The model: DATA = A + D + epsilon
+
+A is mean for STANDARD
+D is mean difference between New and Standard
+
+A and D are called parameters of the model. 
+
+Experimental question  ? Delta not equal to 0.
+
 ## Repositories on GitHub
 
 Our lessons are stored in Git repositories (or "repos") on GitHub.
