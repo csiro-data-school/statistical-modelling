@@ -7,4 +7,7 @@ title: Glossary
 
 **parameter**
 
+**estimate**
+
+
 {% include carpentries.html %}
