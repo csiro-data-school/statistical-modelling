@@ -83,3 +83,12 @@ Done an anova...
 
 Note: year is also a source of variation 'controlling fo year' = comparing yields WITHIN year and combining differences
 location is an enormous source of variation. 
+
+5. Does diet affect milk yield in Holstein-Frisian cows?
+
+Message 1: good experimental design matters.
+Message 3 The analysis should match the scientific question of interest. We need a statistical model of the experiment.
+Message 4: A statistical model enables accumulation of evidence across experiments.
+Message 5: A statistical model can incorporate data structure for appropriate inference. 
+
+T-tests are not enough!
