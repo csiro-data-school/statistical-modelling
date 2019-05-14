@@ -53,6 +53,7 @@ What are the words you need to understand?
 * mean
 * variation
 * Standard Error: measure of uncertainty
+* p-value
 
 2. p-values from simple comparisions cannot tell us when difference are 'different'.
 
@@ -62,4 +63,4 @@ Are temperature mechanisms modified in a genetically modified tomato plant?
 * Water conditions: Normal / Drought
 * Leaf temperature measured. 
 
-Two lots of t-tests to test effect of WT/ mutant by Normal / Drought.
+Two lots of t-tests to test effect of WT/ mutant by Normal / Drought. People confuse non-significant P-value with saying that they are the same. It's just that there is not enough evidence to say that they are different. Note here (discuss with Terry): one way this can occur is difference in sample sizes. 
