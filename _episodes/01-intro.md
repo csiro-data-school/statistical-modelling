@@ -21,3 +21,34 @@ E.g. tomato plant. Have mutant that is drought resistant. Put mutant on bottom, 
 
 We need to incorporate the design of the experiment in our analysis. 
 Statistics is a framework, bones of scientific thinking over top of which you can apply your domain knowledge. Bring your data to dress the skeleton. 
+
+History of stats. Goes back about 100 years to Fisher: 1890 to 1962. 'Statistical principles for Research Workers' (1925). 
+Pictures and wiki link.
+
+Was a mathematician. Fundamental contributions in statistics and genetics. Were really one field up until the 40s. Statistics is embedded in agricultural problems. Nitrogen and phospherous and field trials. Roots in places like CSIRO - used to be a place with a lot of statisticians. Came to CSIRO and spent end of his life in Adelaide. 
+
+Common mistakes:
+Many people know a little and have done a course of two in stats. However, lecturers don't really understand real-world problems in applied research institutes. This leads errors and misconceptions. 
+
+1. A small p-value is not always evidence of a treatment effect. (research article - should we get rid of them?). What's at fault? The scientists (i.e. the interpretation). 
+
+Insert P-value problem. 
+
+Will adding rhizobacteria to soil improve N and phosphate absorption in roots?
+* 8 plots / treatment
+* take roots after 2 weeks
+* pool samples, then sub-samples drawn
+* outcome: relative mRNA expression of phosphate and N transporter genes in roots
+* statistical method: t-test, Bonferroni correction p<0.05
+
+What's the problem? A t-test compares the means. But, it's technical variation. Biological variation is bigger than technical variation. Technical variation will give us a smaller P-value. 
+
+(image to show comparison of means)
+how does it do this: look at sample means. Measure relative to amount of variation.
+
+Problem: two different distributions, same means, what is the difference / which ones can you 
+
+What are the words you need to understand?
+
+* mean
+* variation
